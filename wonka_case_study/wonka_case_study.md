@@ -24,7 +24,7 @@ The Coffee Machine use case consists of 1 automatic coffee machine (1 heating co
   <figcaption><b>Figure 1: Laboratory instrumented coffee machine.</b></figcaption>
 </figure>
 
-Details about the formal representation of this use case can be found [here]( http://htmlpreview.github.io/?ontology/instantiated/lab1_CoffeeMachine.html) (knowledge graph).
+Details about the formal representation of this use case can be found [here]( http://htmlpreview.github.io/ontology/instantiated/lab1_CoffeeMachine.html) (knowledge graph).
 
 2. <u>Robot Arm</u>
 
