@@ -24,7 +24,7 @@ The Coffee Machine use case consists of 1 automatic coffee machine (1 heating co
   <figcaption><b>Figure 1: Laboratory instrumented coffee machine.</b></figcaption>
 </figure>
 
-Details about the formal representation of this use case can be found [here](https://rawcdn.githack.com/Delabeye/Benchmark-1_MBSE_for_Early_Validation_and_Verification/79e782cbc6f236c7941abe0afe34486c3bb8ba4a/wonka_case_study/ontology/instantiated/complete_knowledge_graph.html) (knowledge graph).
+Details about the formal representation of this use case can be found [here](https://rawcdn.githack.com/Delabeye/Benchmark-1_MBSE_for_Early_Validation_and_Verification/79e782cbc6f236c7941abe0afe34486c3bb8ba4a/wonka_case_study/ontology/instantiated/lab1_CoffeeMachine.html) (knowledge graph).
 
 2. <u>Robot Arm</u>
 
@@ -35,7 +35,7 @@ The 6-axis robot arm repeatedly performs a specific motion (e.g., piece-picking)
   <figcaption><b>Figure 2: Laboratory instrumented 6-axis robot arm.</b></figcaption>
 </figure>
 
-Details about the formal representation of this use case can be found [here](ontology/instantiated/lab2_RobotArm.html) (knowledge graph).
+Details about the formal representation of this use case can be found [here](https://rawcdn.githack.com/Delabeye/Benchmark-1_MBSE_for_Early_Validation_and_Verification/79e782cbc6f236c7941abe0afe34486c3bb8ba4a/wonka_case_study/ontology/instantiated/lab2_RobotArm.html) (knowledge graph).
 
 1. <u>3D Printer</u>
 
@@ -46,7 +46,7 @@ A laboratory Cartesian Fused Deposition Modelling (FDM) 3D printer is considered
   <figcaption><b>Figure 3: Laboratory instrumented  cartesian fused deposition modelling (FDM) 3D printer.</b></figcaption>
 </figure>
 
-Details about the formal representation of this use case can be found [here](ontology/instantiated/lab3_3Dprinter.html) (knowledge graph).
+Details about the formal representation of this use case can be found [here](https://rawcdn.githack.com/Delabeye/Benchmark-1_MBSE_for_Early_Validation_and_Verification/79e782cbc6f236c7941abe0afe34486c3bb8ba4a/wonka_case_study/ontology/instantiated/lab3_3Dprinter.html) (knowledge graph).
 
 ##### Two *industrial systems* (from the [EnerMan Project](https://enerman-h2020.eu/)):
 
@@ -61,7 +61,7 @@ In this use case, the only objective is to decompose the temperature signals.
 </figure>
 
 More information regarding this use case can be found in EnerMan's public deliverable on the [EnerMan Edge Flexible, Adaptable, Control Loop Support](https://enerman-h2020.eu/wp-content/uploads/2022/12/Attachment_0-7.pdf).
-Details about the formal representation of this use case can be found [here](ontology/instantiated/ind1_VehicleTestbed.html) (knowledge graph).
+Details about the formal representation of this use case can be found [here](https://rawcdn.githack.com/Delabeye/Benchmark-1_MBSE_for_Early_Validation_and_Verification/79e782cbc6f236c7941abe0afe34486c3bb8ba4a/wonka_case_study/ontology/instantiated/ind1_VehicleTestbed.html) (knowledge graph).
 
 5. <u>Mixing and Conching Machine in a Chocolate Factory</u>
 
@@ -72,7 +72,7 @@ The mixing and conching machine is responsible for stirring and heating up choco
   <figcaption><b>Figure 5: Mixing and conching machine heating up and stirring chocolate.</b></figcaption>
 </figure>
 
-Details about the formal representation of this use case can be found [here](ontology/instantiated/ind2_ChocolateFactory.html) (knowledge graph).
+Details about the formal representation of this use case can be found [here](https://rawcdn.githack.com/Delabeye/Benchmark-1_MBSE_for_Early_Validation_and_Verification/79e782cbc6f236c7941abe0afe34486c3bb8ba4a/wonka_case_study/ontology/instantiated/ind2_ChocolateFactory.html) (knowledge graph).
 
 ---
 #### <u> Scientific approach (ATV)</u>
@@ -107,7 +107,7 @@ Once instantiated, the ontology can be visualised as a knowledge graph:
   <figcaption><b>Figure 8: Knowledge graph for the WONKA dataset.</b></figcaption>
 </figure>
 
-See the [complete knowledge graph](ontology/instantiated/complete_knowledge_graph.html) of the WONKA case study for more details.
+See the [complete knowledge graph](https://rawcdn.githack.com/Delabeye/Benchmark-1_MBSE_for_Early_Validation_and_Verification/79e782cbc6f236c7941abe0afe34486c3bb8ba4a/wonka_case_study/ontology/instantiated/complete_knowledge_graph.html) of the WONKA case study for more details.
 
 ## Initial requirements
 
